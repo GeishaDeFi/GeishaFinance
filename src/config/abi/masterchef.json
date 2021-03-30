@@ -2,8 +2,8 @@
   {
     "inputs": [
       {
-        "internalType": "contract TakoyakiToken",
-        "name": "_takoyaki",
+        "internalType": "contract ZENStoken",
+        "name": "_zens",
         "type": "address"
       },
       {
@@ -18,7 +18,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "_takoyakiPerBlock",
+        "name": "_zensPerBlock",
         "type": "uint256"
       },
       {
@@ -284,7 +284,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "accTakoyakiPerShare",
+        "name": "accZENSPerShare",
         "type": "uint256"
       },
       {
@@ -320,10 +320,10 @@
   },
   {
     "inputs": [],
-    "name": "takoyaki",
+    "name": "ZENS",
     "outputs": [
       {
-        "internalType": "contract TakoyakiToken",
+        "internalType": "contract ZENStoken",
         "name": "",
         "type": "address"
       }
@@ -334,7 +334,7 @@
   },
   {
     "inputs": [],
-    "name": "takoyakiPerBlock",
+    "name": "zensPerBlock",
     "outputs": [
       {
         "internalType": "uint256",
@@ -511,7 +511,7 @@
         "type": "address"
       }
     ],
-    "name": "pendingTakoyaki",
+    "name": "pendingZENS",
     "outputs": [
       {
         "internalType": "uint256",
@@ -622,7 +622,7 @@
     "inputs": [
       {
         "internalType": "uint256",
-        "name": "_takoyakiPerBlock",
+        "name": "_zensPerBlock",
         "type": "uint256"
       }
     ],

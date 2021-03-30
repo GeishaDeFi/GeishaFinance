@@ -8,12 +8,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ZENS-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x0E91b6Ae095b47b215E04Ee982f36620Bf9b895B',
+      56: '0x3B02fA05689A89dA756FFa7F2b63fe3235aB6a80',
     },
     tokenSymbol: 'EGG',
     tokenAddresses: {
       97: '',
-      56: '0x440676a18d9792215500b1bc06341eb169e6e74b',
+      56: '0x190E475Bc30a35F4Ef207EdE136c951D7995b2f3',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -24,12 +24,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ZENS-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xC43C9C65DC93b95CE4bD7EE996f071987a17dD01',
+        56: '0xC03F243680d7332FFc6b7e30b8d8CCeadbDa0B0d',
     },
     tokenSymbol: 'EGG',
     tokenAddresses: {
       97: '',
-      56: '0x440676a18d9792215500b1bc06341eb169e6e74b',
+        56: '0x190E475Bc30a35F4Ef207EdE136c951D7995b2f3',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -89,12 +89,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ZENS',
     lpAddresses: {
       97: '',
-      56: '0x0E91b6Ae095b47b215E04Ee982f36620Bf9b895B', // TAKO POOL 
+      56: '0x3B02fA05689A89dA756FFa7F2b63fe3235aB6a80', // TAKO POOL 
     },
     tokenSymbol: 'EGG',
     tokenAddresses: {
       97: '',
-      56: '0x440676a18d9792215500b1bc06341eb169e6e74b',
+      56: '0x190E475Bc30a35F4Ef207EdE136c951D7995b2f3',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
