@@ -60,10 +60,10 @@ const Home: React.FC = () => {
     <Page>
       <Hero>
         <Heading as="h1" size="xl" mb="24px" color="secondary" style={{fontSize: 50}}>
-          {TranslateString(576, 'Takoyaki Finance')}
+          {TranslateString(576, 'Zen Finance')}
         </Heading>
-        <Text>{TranslateString(578, "Irasshaimase! Welcome to Takoyaki Stand!.")}</Text>
-        <Text>タコヤキファイナンス、ようこそ！</Text>
+        <Text>{TranslateString(578, "Welcome to Zen ponds !")}</Text>
+              <Text>Zeniest DEFI app on Binance Smart Chain.</Text>
       </Hero>
       <div>
         <Cards>

@@ -95,14 +95,14 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
     <Page>
       <Heading as="h1" size="lg" color="secondary" mb="40px" style={{textAlign: 'center', fontSize: 35}}>
         {tokenMode
-          ? TranslateString(10002, 'Stake tokens to earn TAKO')
-          : TranslateString(320, 'Stake LP tokens to earn TAKO')}
+          ? TranslateString(10002, 'Stake tokens to earn ZENS')
+          : TranslateString(320, 'Stake LP tokens to earn ZENS')}
       </Heading>
       <Heading as="h4" mb="10px" style={{textAlign: 'center'}}>
-        {TranslateString(10000, 'Deposit Fee will be used to buyback TAKO')}
+        {TranslateString(10000, 'Deposit Fee will be used to buyback ZENS')}
       </Heading>
       <Heading as="h4" mb="30px" style={{textAlign: 'center'}}>
-        {TranslateString(10006, 'Deposit Fee will be used to buyback TAKO')}
+        {TranslateString(10006, 'Deposit Fee will be used to buyback ZENS')}
       </Heading>
       <FarmTabButtons stakedOnly={stakedOnly} setStakedOnly={setStakedOnly} />
       <div>

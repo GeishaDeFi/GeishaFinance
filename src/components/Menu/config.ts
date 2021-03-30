@@ -12,21 +12,21 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.takoyakidefi.com/',
+        href: 'https://exchange.defizens.com/',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.takoyakidefi.com/#/pool',
+        href: 'https://exchange.defizens.com/#/pool',
       },
     ],
   },
   {
-    label: 'Restaurants',
+    label: 'Farms',
     icon: 'TakoyakiIcon',
     href: '/restaurants',
   },
   {
-    label: 'Stands',
+    label: 'Ponds',
     icon: 'PoolIcon',
     href: '/stands',
   },
@@ -73,16 +73,9 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/takoyakidefi/',
+        href: 'https://github.com/ZENSDefi/',
       },
-      {
-        label: 'Docs',
-        href: 'https://docs.takoyakidefi.com',
-      },
-      {
-        label: 'Blog',
-        href: 'https://medium.com/@takoyakidefi',
-      },
+      
     ],
   },
   // {
@@ -90,16 +83,6 @@ const config: MenuEntry[] = [
   //   icon: 'AuditIcon',
   //   href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
   // },
-  {
-    label: 'Road Map',
-    icon: 'RoadmapIcon',
-    href: 'https://docs.takoyakidefi.com/road-map',
-  },
-  {
-    label: 'Audit by TechRate',
-    icon: 'AuditIcon',
-    href: 'https://github.com/TechRate/Smart-Contract-Audits/blob/main/Takoyaki%20Finance.pdf',
-  },
-]
+  ]
 
 export default config
