@@ -5,7 +5,7 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'ZENS-BUSD LP',
+    lpSymbol: 'GEI-BUSD LP',
     lpAddresses: {
       97: '',
       56: '0x3B02fA05689A89dA756FFa7F2b63fe3235aB6a80',
@@ -21,7 +21,7 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'ZENS-BNB LP',
+    lpSymbol: 'GEI-BNB LP',
     lpAddresses: {
       97: '',
         56: '0xC03F243680d7332FFc6b7e30b8d8CCeadbDa0B0d',
@@ -86,7 +86,7 @@ const farms: FarmConfig[] = [
     pid: 5,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'ZENS',
+    lpSymbol: 'GEI',
     lpAddresses: {
       97: '',
       56: '0x3B02fA05689A89dA756FFa7F2b63fe3235aB6a80', // TAKO POOL 

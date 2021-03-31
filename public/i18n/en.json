@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total ZENS burned since launch"
+        "text": "Total GEI burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens in Restaurants to earn ZENS"
+        "text": "Stake LP tokens in Farms to earn GEI"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake Zens, get SYRUP."
+        "text": "Stake GEI, get SYRUP."
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake ZENS tokens, the contract will automatically harvest ZENS rewards for you!"
+        "text": "Every time you stake and unstake GEI tokens, the contract will automatically harvest GEI rewards for you!"
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Zens price"
+        "text": "GEI price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 ZENS = 1 SYRUP"
+        "text": "1 GEI = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of ZENS block emissions each day (10 ZENS per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of GEI block emissions each day (10 GEI per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% ZENS"
+        "text": "%num% GEI"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend ZENS to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend GEI to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% ZENS Available"
+        "text": "%num% GEI Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 ZENS"
+        "text": "Your amount must be a multiple of 10 GEI"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 ZENS"
+        "text": "1 Ticket = 10 GEI"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your ZENS cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your GEI cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "ZENS prizes to be claimed"
+        "text": "GEI prizes to be claimed"
       }
     },
     {
@@ -543,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve ZENS"
+        "text": "Approve GEI"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of ZENS block emissions each day (10 ZENS per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of GEI block emissions each day (10 GEI per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using ZENS-BNB LP tokens, which means you need to stake equal amounts of ZENS and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using GEI-BNB LP tokens, which means you need to stake equal amounts of GEI and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get ZENS-BNB LP >"
+        "text": "Get GEI-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, ZEN Finance burns the ZENS."
+        "text": "The project gets the BNB, GEISHA Finance burns the GEI."
       }
     },
     {
@@ -597,7 +597,7 @@
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with ZEN Finance, Binance Smart Chain\u2019s."
+        "text": "Launch your project with GEISHA Finance, Binance Smart Chain\u2019s."
       }
     },
     {
@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Zens Stats"
+        "text": "GEI Stats"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New ZENS\/block"
+        "text": "New GEI\/block"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "ZENS to Harvest"
+        "text": "GEI to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "ZENS in Wallet"
+        "text": "GEI in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting ZENS"
+        "text": "Collecting GEI"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "ZENS to Collect"
+        "text": "GEI to Collect"
       }
     },
     {
@@ -753,19 +753,19 @@
     {
       "data": {
         "stringId": 576,
-        "text": "ZEN Finance"
+        "text": "GEISHA Finance"
       }
     },
     {
       "data": {
         "stringId": 578,
-        "text": "Welcome to ZEN ponds !"
+        "text": "Welcome to Geisha Hanamachi !"
       }
     },
     {
       "data": {
         "stringId": 580,
-        "text": "Stake ZENS to earn new tokens."
+        "text": "Stake GEI to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "ZENS to burn (USD)"
+        "text": "GEI to burn (USD)"
       }
     },
     {
@@ -795,7 +795,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest ZENS rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest GEI rewards for you!"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy ZENS and BNB tokens"
+        "text": "Buy GEI and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get ZENS-BNB LP tokens by adding ZENS and BNB liquidity"
+        "text": "Get GEI-BNB LP tokens by adding GEI and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your ZENS-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your GEI-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for ZENS, or keep for your collection!"
+        "text": "Trade in for GEI, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive ZENS, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive GEI, you will lose access to it forever!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a ZENS value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a GEI value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for ZENS"
+        "text": "Trade in for GEI"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens in Restaurants to earn ZENS"
+        "text": "Stake LP tokens in Farms to earn GEI"
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The ZENS Lottery"
+        "text": "The GEI Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with ZENS"
+        "text": "Buy tickets with GEI"
       }
     },
     {
@@ -1209,13 +1209,13 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback ZENS in periodical manners!"
+        "text": "Deposit Fee will be used to buyback GEI in periodical manners!"
       }
     },
     {
       "data": {
         "stringId": 10006,
-        "text": "This will makes our ZENS price less fluctuate and brings more people to enjoy!"
+        "text": "This will makes our GEI price less fluctuate and brings more people to enjoy!"
       }
     },
     {
@@ -1227,7 +1227,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens in Zen ponds to earn more ZENS"
+        "text": "Stake tokens in Baths to earn more GEI"
       }
     },
     {

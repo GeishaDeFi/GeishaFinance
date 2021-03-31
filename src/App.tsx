@@ -26,7 +26,7 @@ BigNumber.config({
 })
 
 const App: React.FC = () => {
-  const {account, connect} = useWallet()
+    const { account, connect } =  useWallet ()
   useEffect(() => {
     if (!account && window.localStorage.getItem('accountStatus')) {
       connect('injected')
@@ -45,10 +45,10 @@ const App: React.FC = () => {
             <Route path="/" exact>
               <Home />
             </Route>
-            <Route path="/restaurants">
+            <Route path="/Farms">
               <Farms />
             </Route>
-            <Route path="/stands">
+            <Route path="/Baths">
               <Farms tokenMode />
             </Route>
             {/* <Route path="/pools"> */}

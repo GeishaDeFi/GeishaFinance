@@ -23,12 +23,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'TakoyakiIcon',
-    href: '/restaurants',
+    href: '/farms',
   },
   {
-    label: 'Ponds',
+    label: 'Baths',
     icon: 'PoolIcon',
-    href: '/stands',
+    href: '/Baths',
   },
   // {
   //   label: 'Pools',
