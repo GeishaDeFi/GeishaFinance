@@ -1893,9 +1893,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@ZENSDefi/ZENS-uikit":
+"@pancakeswap-libs/uikit@GeishaDeFi/ZENS-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/ZENSDefi/ZENS-uikit/tar.gz/a995a1833a302088af49e2b925884db0b0d58e32"
+  resolved "https://codeload.github.com/GeishaDeFi/ZENS-uikit/tar.gz/155b17ed9821d530841318d611f367e6dfd29134"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

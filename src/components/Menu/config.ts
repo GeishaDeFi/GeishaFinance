@@ -73,7 +73,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/ZENSDefi/',
+        href: 'https://github.com/GeishaDeFi/',
       },
       
     ],
